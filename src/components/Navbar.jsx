@@ -36,7 +36,21 @@ const Navbar = () => {
                     </button>
                 </div>
             </div>
-            {isOpen && (}
+            {isOpen && (
+                <div className="fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center items-center lg:hidden">
+                    <ul>
+                        {navItems.map((item, index) => (
+                            <li key={index} className="py-4">
+                                <a href={item.href}>{item.label}</a>
+                            </li>
+                    ))}
+                    </ul>
+                    <div className="flex space-x-6">
+                        <a href="#" className="py-2 px-3 border rounded-md">Login</a>
+                        <a href="#" className="bg-gradient-to-r from-violet-500 to-violet-800 py-2 px-3 rounded-md">Create an Account</a>
+                    </div>
+                </div>
+                )}
         </div>
    </nav>
   )
