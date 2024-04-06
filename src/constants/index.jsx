@@ -22,37 +22,37 @@ export const navItems = [
 export const testimonials = [
   {
     user: "John Doe",
-    company: "Stellar Solutions",
+    company: "Special Kids School",
     image: user1,
     text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
   },
   {
     user: "Jane Smith",
-    company: "Blue Horizon Technologies",
+    company: "Special Kids School",
     image: user2,
     text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
   },
   {
     user: "David Johnson",
-    company: "Quantum Innovations",
+    company: "Special Kids School",
     image: user3,
     text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
   },
   {
     user: "Ronee Brown",
-    company: "Fusion Dynamics",
+    company: "Special Kids School",
     image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "Working with the team at Special Kids School was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
   },
   {
     user: "Michael Wilson",
-    company: "Visionary Creations",
+    company: "Special Kids School",
     image: user5,
     text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
   },
   {
     user: "Emily Davis",
-    company: "Synergy Systems",
+    company: "Special Kids School",
     image: user6,
     text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
   },
@@ -61,94 +61,95 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    text: "Adaptive Learning Environment",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Create an adaptive learning environment tailored to the individual needs of each student.",
   },
   {
     icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    text: "Accessible Communication Tools",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Facilitate communication with accessible tools designed for students with special needs.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    text: "Inclusive Curriculum Resources",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "Access a wide range of inclusive curriculum resources to support diverse learning needs.",
   },
   {
     icon: <BatteryCharging />,
-    text: "Real-Time Preview",
+    text: "Real-Time Progress Tracking",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "Track students' progress in real-time to provide timely support and intervention.",
   },
   {
     icon: <PlugZap />,
-    text: "Collaboration Tools",
+    text: "Parent-Teacher Collaboration",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "Enable seamless collaboration between parents and teachers to support student learning.",
   },
   {
     icon: <GlobeLock />,
-    text: "Analytics Dashboard",
+    text: "Secure Data Management",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "Ensure the security and privacy of student data with robust data management practices.",
   },
 ];
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Personalized Learning Plans",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Tailor learning plans to meet the unique needs and abilities of each student.",
   },
   {
-    title: "Review code without worry",
+    title: "Accessible Technology Integration",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Integrate accessible technology tools to enhance learning experiences for students with special needs.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "Individualized Support Services",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Provide individualized support services to address the specific challenges faced by each student.",
   },
   {
-    title: "Share work in minutes",
+    title: "Collaborative Problem-Solving",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Engage in collaborative problem-solving with students, parents, and other stakeholders to address educational challenges.",
   },
 ];
 
 export const pricingOptions = [
   {
-    title: "Free",
-    price: "$0",
+    title: "Basic",
+    price: "£0",
     features: [
-      "Private board sharing",
-      "5 Gb Storage",
-      "Web Analytics",
-      "Private Mode",
+      "Adaptive Learning Environment",
+      "Basic Support Services",
+      "Limited Access to Curriculum Resources",
+      "Limited Progress Tracking",
     ],
   },
   {
-    title: "Pro",
-    price: "$10",
+    title: "Standard",
+    price: "£50",
     features: [
-      "Private board sharing",
-      "10 Gb Storage",
-      "Web Analytics (Advance)",
-      "Private Mode",
+      "Adaptive Learning Environment",
+      "Standard Support Services",
+      "Access to Full Curriculum Resources",
+      "Real-Time Progress Tracking",
     ],
   },
   {
-    title: "Enterprise",
-    price: "$200",
+    title: "Premium",
+    price: "£100",
     features: [
-      "Private board sharing",
-      "Unlimited Storage",
-      "High Performance Network",
-      "Private Mode",
+      "Adaptive Learning Environment",
+      "Premium Support Services",
+      "Access to Full Curriculum Resources",
+      "Real-Time Progress Tracking",
+      "Dedicated Parent-Teacher Collaboration Portal",
     ],
   },
 ];
@@ -157,7 +158,7 @@ export const resourcesLinks = [
   { href: "#", text: "Getting Started" },
   { href: "#", text: "Documentation" },
   { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
+  { href: "#", text: "Accessibility Guidelines" },
   { href: "#", text: "Community Forums" },
 ];
 
@@ -173,6 +174,6 @@ export const communityLinks = [
   { href: "#", text: "Events" },
   { href: "#", text: "Meetups" },
   { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "#", text: "Job Opportunities" },
+  { href: "#", text: "Volunteer Opportunities" },
 ];
