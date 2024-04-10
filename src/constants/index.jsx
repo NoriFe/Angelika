@@ -22,39 +22,39 @@ export const navItems = [
 export const testimonials = [
   {
     user: "John Doe",
-    company: "Special Kids School",
+    company: "School of Needs",
     image: user1,
-    text: "I am beyond grateful for the care and support my child receives at Special Kids School. The team's dedication and compassion have made a world of difference in our lives.",
+    text: "I am beyond grateful for the care and support my child receives at School of Needs. The team's dedication and compassion have made a world of difference in our lives.",
   },
   {
     user: "Jane Smith",
-    company: "Special Kids School",
+    company: "School of Needs",
     image: user2,
-    text: "My heart overflows with joy knowing that my child is thriving at Special Kids School. The team's love and encouragement have helped my child blossom in unimaginable ways.",
+    text: "My heart overflows with joy knowing that my child is thriving at School of Needs. The team's love and encouragement have helped my child blossom in unimaginable ways.",
   },
   {
     user: "David Johnson",
-    company: "Special Kids School",
+    company: "School of Needs",
     image: user3,
-    text: "Words cannot express the depth of gratitude I feel for the Special Kids School team. They have not only supported my child's growth but have also become like family to us.",
+    text: "Words cannot express the depth of gratitude I feel for the School of Needs team. They have not only supported my child's growth but have also become like family to us.",
   },
   {
     user: "Ronee Brown",
-    company: "Special Kids School",
+    company: "School of Needs",
     image: user4,
-    text: "Special Kids School has been a beacon of hope for our family. The love and acceptance my child receives here are truly heartwarming. We are blessed to be a part of this community.",
+    text: "School of Needs has been a beacon of hope for our family. The love and acceptance my child receives here are truly heartwarming. We are blessed to be a part of this community.",
   },
   {
     user: "Michael Wilson",
-    company: "Special Kids School",
+    company: "School of Needs",
     image: user5,
-    text: "My child's journey at Special Kids School has been nothing short of miraculous. The dedication and care shown by the staff have turned challenges into triumphs, and for that, I am forever grateful.",
+    text: "My child's journey at School of Needs has been nothing short of miraculous. The dedication and care shown by the staff have turned challenges into triumphs, and for that, I am forever grateful.",
   },
   {
     user: "Emily Davis",
-    company: "Special Kids School",
+    company: "School of Needs",
     image: user6,
-    text: "I am constantly in awe of the incredible impact Special Kids School has had on my child's life. The nurturing environment and personalized attention have helped my child shine brighter than ever before.",
+    text: "I am constantly in awe of the incredible impact School of Needs has had on my child's life. The nurturing environment and personalized attention have helped my child shine brighter than ever before.",
   },
 ];
 
