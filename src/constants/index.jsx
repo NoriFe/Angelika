@@ -24,37 +24,37 @@ export const testimonials = [
     user: "John Doe",
     company: "Special Kids School",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "I am beyond grateful for the care and support my child receives at Special Kids School. The team's dedication and compassion have made a world of difference in our lives.",
   },
   {
     user: "Jane Smith",
     company: "Special Kids School",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "My heart overflows with joy knowing that my child is thriving at Special Kids School. The team's love and encouragement have helped my child blossom in unimaginable ways.",
   },
   {
     user: "David Johnson",
     company: "Special Kids School",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "Words cannot express the depth of gratitude I feel for the Special Kids School team. They have not only supported my child's growth but have also become like family to us.",
   },
   {
     user: "Ronee Brown",
     company: "Special Kids School",
     image: user4,
-    text: "Working with the team at Special Kids School was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "Special Kids School has been a beacon of hope for our family. The love and acceptance my child receives here are truly heartwarming. We are blessed to be a part of this community.",
   },
   {
     user: "Michael Wilson",
     company: "Special Kids School",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "My child's journey at Special Kids School has been nothing short of miraculous. The dedication and care shown by the staff have turned challenges into triumphs, and for that, I am forever grateful.",
   },
   {
     user: "Emily Davis",
     company: "Special Kids School",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "I am constantly in awe of the incredible impact Special Kids School has had on my child's life. The nurturing environment and personalized attention have helped my child shine brighter than ever before.",
   },
 ];
 

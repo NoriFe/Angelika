@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import FeatureSection from './components/FeatureSection';
 import WorkFlow from './components/WorkFlow';
+import Testimonials from './components/Testimonials';
 
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
           <Hero />
           <FeatureSection />
           <WorkFlow />
+          <Testimonials />
 
         </div>
     </>
