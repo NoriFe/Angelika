@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { features } from "../constants";
 
 
@@ -9,7 +9,7 @@ const FeatureSection = () => {
             <span className="bg-neutral-900 text-violet-500 rounded-full h-6 text-sm font0medium px-2 py-1 uppercase">
                 feature
             </span>
-            <h2 className="text-4xl sm:text-6xl lg:text-3xl mt-10 lg:mt-20 tracking-wide">What we do <span className='bg-gradient-to-r from-violet-500 to-violet-800 text-transparent bg-clip-text'>for our loveonce</span></h2>            
+            <h2 className="text-4xl sm:text-6xl lg:text-3xl mt-10 lg:mt-20 tracking-wide">What we do <span className='bg-gradient-to-r from-violet-500 to-violet-800 text-transparent bg-clip-text'>for our loveonce</span></h2>
         </div>
         <div className="flex flex-wrap mt-10 lg:mt-20">
             { features.map((feature, index) => (
@@ -27,7 +27,7 @@ const FeatureSection = () => {
             ))}
 
         </div>
-      
+
     </div>
   )
 }

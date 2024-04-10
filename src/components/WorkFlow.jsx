@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { CheckCircle2 } from 'lucide-react';
 import codeImg from '../assets/code.jpg';
 import { checklistItems } from '../constants';
@@ -21,7 +21,7 @@ const WorkFlow = () => {
                         <h5 className='mt-1 mb-2 text-xl '>{item.title}</h5>
                         <p className='text-md text-neutral-500'>{item.description}</p>
                     </div>
-                    
+
                 </div>
                 ))}
         </div>
