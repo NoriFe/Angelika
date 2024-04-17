@@ -6,10 +6,10 @@ import { checklistItems } from '../constants';
 const WorkFlow = () => {
   return (
     <div className='mt-20'>
-      <h2 className='text-3xl sm:text-5xl lg:text-6xl text-center my-20 tracking-wide'>Accelerate your <span className='bg-gradient-to-r from-violet-500 to-violet-800 text-transparent bg-clip-text'>work experience.</span></h2>
+      <h2 className='text-3xl sm:text-5xl lg:text-6xl text-center my-20 tracking-wide'>Accelerate pupil <span className='bg-gradient-to-r from-violet-500 to-violet-800 text-transparent bg-clip-text'>learning experience.</span></h2>
       <div className='flex flex-wrap justify-center'>
         <div className='p-2 w-full lg:w-1/2'>
-            <img src={codeImg} alt='Code' className='' />
+            <img src={codeImg} alt='Code' className='rounded-xl border border-violet-800' />
         </div>
         <div className='pt-12 w-full lg:w-1/2'>
             {checklistItems.map((item, index) => (

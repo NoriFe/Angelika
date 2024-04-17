@@ -1,3 +1,4 @@
+
 import { testimonials } from "../constants"
 
 const Testimonials = () => {
@@ -26,7 +27,7 @@ const Testimonials = () => {
           </div>
         ))}
       </div>
-    </div>
+   </div>
   )
 }
 
